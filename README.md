@@ -44,4 +44,4 @@ This was my **first HTML assignment**, created to build a strong foundation in H
 
 ## 👨‍💻 Author
 
-**Ziad**
+**Ziad Embaby**
